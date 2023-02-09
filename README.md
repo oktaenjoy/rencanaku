@@ -1,0 +1,2 @@
+# rencanaku
+repository rencana kedepannya
